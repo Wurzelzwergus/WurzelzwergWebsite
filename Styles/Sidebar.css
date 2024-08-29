@@ -14,5 +14,7 @@
     width: 80px;
     background-color: rgb(45, 45, 45);
 
-    z-index: 200;
+    padding-top: 50px;
+
+    z-index: 100;
 }
