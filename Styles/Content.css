@@ -7,10 +7,9 @@
 }
 
 .ContentGrid{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 15px;
-    row-gap: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding: 20px;
 }
 
